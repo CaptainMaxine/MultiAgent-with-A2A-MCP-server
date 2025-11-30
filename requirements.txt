@@ -1,4 +1,3 @@
-# Assignment 5 - Multi-Agent Customer Service System with A2A and MCP
 # Core dependencies
 
 # Google AI and Agent Development Kit
